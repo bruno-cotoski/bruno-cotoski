@@ -1,7 +1,5 @@
 ### Olá, sou Bruno Cotoski 👋
 
- <img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1031692949664309332/1031696293837422612/MyEmoji_20201218_203417_167.gif?width=555&height=555">
-
 <div align="center">
   <a href="https://github.com/bruno-cotoski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-cotoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
