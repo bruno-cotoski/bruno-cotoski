@@ -18,7 +18,7 @@
 ##
 
 
-### Me siga no Intragam, visite meu Linkedin e me envie um e-mail 😉
+### Me siga no Instagram, visite meu Linkedin e me envie um e-mail 😉
   
 <div> 
   <a href="https://www.instagram.com/bruno_cotoski/" target="_blank" rel="external" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
