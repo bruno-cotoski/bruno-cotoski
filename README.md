@@ -1,7 +1,7 @@
-### Olá, sou Bruno Cotoski 👋
-#### Um estudante de programação fascinado pelo universo da tecnologia 
+### Olá, sou Bruno Cotoski, um estudante de programação fascinado pelo universo da tecnologia 🚀👨‍🚀
 
 <div align="center">
+   <img alt="GIF personagem" height="150em"src="https://media.discordapp.net/attachments/1031692949664309332/1031696293837422612/MyEmoji_20201218_203417_167.gif?width=555&height=555">
   <a href="https://github.com/bruno-cotoski">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bruno-cotoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cotoski&layout=compact&langs_count=7&theme=dracula"/>
