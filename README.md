@@ -1,4 +1,5 @@
 ### Olá, sou Bruno Cotoski 👋
+#### Um estudante de programação fascinado pelo universo da tecnologia 
 
 <div align="center">
   <a href="https://github.com/bruno-cotoski">
@@ -17,10 +18,9 @@
   
 ##
 
-
-### Me siga no Instagram, visite meu Linkedin e me envie um e-mail 😉
+### Me siga no Instagram, visite meu Linkedin e me envie um e-mail ou uma mensagem no Telegram 😉
   
-<div style="display: inline_bloc"> 
+<div style="display: inline_block"> 
   <a href="https://www.instagram.com/bruno_cotoski/" target="_blank" rel="external" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="40" width="40" target="_blank"></a>
  <a href ="mailto:cottosky@gmail.com"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-cotoski-7ab9a41b7/" target="_blank" rel="external"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" height="40" width="40" target="_blank"></a>
