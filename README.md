@@ -2,8 +2,6 @@
 
 <div align="center">
 <h2> Hello, I'm Bruno Cotoski, a programming student fascinated by the universe of technology 👨‍🚀 </h2>
-
-
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cotoski&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
 
