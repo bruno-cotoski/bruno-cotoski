@@ -23,7 +23,7 @@
 <h2> Follow me on Instagram, visit my Linkedin and send me an email or a message on Telegram! 😉 </h2>
   <a href="https://www.instagram.com/bruno_cotoski/" target="_blank" rel="external" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="40" width="40" target="_blank"></a>
  <a href ="mailto:cottosky@gmail.com"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-cotoski-7ab9a41b7/" target="_blank" rel="external"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" height="40" width="40" target="_blank"></a>
+  <a href="www.linkedin.com/in/bruno-cotoski" target="_blank" rel="external"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" height="40" width="40" target="_blank"></a>
   <a href="https://t.me/bruno_cotoski" target="_blank" rel="external" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" width="40" target="_blank"></a>
   <br>
   <a href="https://www.flaticon.com" title="Ícones">Icons created by Freepik - Flaticon</a>
