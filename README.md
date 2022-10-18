@@ -1,10 +1,14 @@
+##
+
 <div align="center">
 <h2> Hello, I'm Bruno Cotoski, a programming student fascinated by the universe of technology 🚀👨‍🚀 </h2>
   <a href="https://github.com/bruno-cotoski">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bruno-cotoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cotoski&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
-   
+
+##
+
 <div align="center" style="display: inline_block">
 <h2> Study languages ✏️ </h2>
   <img align="center" alt="ícone JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +16,8 @@
   <img align="center" alt="ícone CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ícone Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+##
     
 <div align="center" style="display: inline_block"> 
 <h2> Follow me on Instagram, visit my Linkedin and send me an email or a message on Telegram! 😉 </h2>
@@ -23,6 +29,8 @@
   <a href="https://www.flaticon.com" title="Ícones">Icons created by Freepik - Flaticon</a>
   </div>
   
+##  
+
   <div align="center">
     <img alt="GIF personagem" height="150" width="150" src="https://media.discordapp.net/attachments/1031692949664309332/1031696293837422612/MyEmoji_20201218_203417_167.gif?width=555&height=555">
  <div>
