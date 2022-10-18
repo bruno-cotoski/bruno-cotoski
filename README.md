@@ -1,11 +1,11 @@
-### Olá, sou Bruno Cotoski, um estudante de programação fascinado pelo universo da tecnologia 🚀👨‍🚀
+### Hello, I'm Bruno Cotoski, a programming student fascinated by the universe of technology 🚀👨‍🚀
 <div align="center">
   <a href="https://github.com/bruno-cotoski">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bruno-cotoski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cotoski&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
   
-### linguagens de estudo ✏️
+### Study languages ✏️
  
 <div style="display: inline_block">
   <img align="center" alt="ícone JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,15 +15,16 @@
 </div>
   
 ##
-
-### Me siga no Instagram, visite meu Linkedin e me envie um e-mail ou uma mensagem no Telegram 😉
   
-<div style="display: inline_block"> 
+<div align="center" style="display: inline_block"> 
+<h2> Follow me on Instagram, visit my Linkedin and send me an email or a message on Telegram! 😉 </h2>
   <a href="https://www.instagram.com/bruno_cotoski/" target="_blank" rel="external" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="40" width="40" target="_blank"></a>
  <a href ="mailto:cottosky@gmail.com"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-cotoski-7ab9a41b7/" target="_blank" rel="external"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" height="40" width="40" target="_blank"></a>
   <a href="https://t.me/bruno_cotoski" target="_blank" rel="external" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" height="40" width="40" target="_blank"></a>
-</div>
   <br>
-  <a href="https://www.flaticon.com" title="Ícones">Ícones criados por Freepik - Flaticon</a>
+  <a href="https://www.flaticon.com" title="Ícones">Icons created by Freepik - Flaticon</a>
+  </div>
+  <div align="center">
     <img alt="GIF personagem" height="150" width="150" src="https://media.discordapp.net/attachments/1031692949664309332/1031696293837422612/MyEmoji_20201218_203417_167.gif?width=555&height=555">
+ <div>
