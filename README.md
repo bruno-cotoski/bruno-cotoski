@@ -32,5 +32,5 @@
 ##  
 
   <div align="center">
-    <img alt="GIF personagem" height="150" width="150" src="https://media.discordapp.net/attachments/1031692949664309332/1031696293837422612/MyEmoji_20201218_203417_167.gif?width=555&height=555">
+    <img alt="GIF personagem" height="150" width="150" src="https://media.discordapp.net/attachments/1031692949664309332/1031693306314362950/MyEmoji_20201218_203417_148.gif?width=555&height=555">
  <div>
