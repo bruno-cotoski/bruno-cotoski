@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
-<h2> Hello, I'm Bruno Cotoski, a programmer fascinated by the universe of technology 💾🧙‍♂️ </h2>
+<h2> Hello, I'm Bruno Cotoski, a programmer fascinated by the universe of technology 💾 </h2>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bruno-cotoski&show_icons=true&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cotoski&layout=compact&theme=dracula"/>
 
