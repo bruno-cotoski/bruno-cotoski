@@ -20,7 +20,10 @@
 ##
     
 <div align="center" style="display: inline_block">
+<<<<<<< HEAD
  <div align="center" style="display: inline_block">
+=======
+>>>>>>> 5ddf8e032a77c4070a5cdaf1f369df96d00026c8
 <h2> Visit my Linkedin and send me an email! 😉 </h2>
 <a href="https://www.linkedin.com/in/bruno-cotoski" target="_blank"><img  align="center" src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png"  height="40" width="40" target="_blank"></a>
 <a href ="mailto:cottosky@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"  width="40"></a>
