@@ -11,16 +11,16 @@
 ##
 
 <div align="center" style="display: inline_block">
-<h2> Linguagens e Tecnologias de Desenvolvimento ⚗️ </h2>
-  <img align="center" alt="ícone JavaScript" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img align="center" alt="ícone HTML" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
-  <img align="center" alt="ícone CSS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
-  <img align="center" alt="ícone HTML" height="50" width="50" src="https://img.icons8.com/?size=100&id=KppI8aNv6oQe&format=png&color=000000">
-  <img align="center" alt="ícone HTML" height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
-  <img align="center" alt="ícone HTML" height="50" width="50" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000">
-  <img align="center" alt="ícone HTML" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/PICO-8_logo_with_shadow.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original">
+   <h2> Linguagens e Tecnologias de Desenvolvimento ⚗️ </h2>
+<div align="center" style="display: inline_block"
+  <img alt="JavaScript" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img alt="JavaScript" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+  <img alt="JavaScript" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
+  <img alt="JavaScript" height="40" src="https://img.icons8.com/?size=100&id=KppI8aNv6oQe&format=png&color=000000">
+  <img alt="JavaScript" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+  <img alt="JavaScript" height="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+  <img alt="JavaScript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/PICO-8_logo_with_shadow.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original">
 </div>
-
 
 </div>
 
