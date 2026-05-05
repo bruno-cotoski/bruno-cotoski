@@ -29,20 +29,13 @@
 
 <div align="center">
   <h2> Visite meu LinkedIn e me mande um email 📬 </h2>
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/bruno-cotoski" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" height="40" width="40">
-        </a>
-      </td>
-      <td>
-        <a href="mailto:cottosky@gmail.com" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: inline_block"
+  	<a href="https://www.linkedin.com/in/bruno-cotoski" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" height="40" width="40">
+     </a>
+  	<a href="mailto:cottosky@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40">
+  	</a>
 </div>
 
 
