@@ -27,11 +27,16 @@
 ##
     
 
-<div align="center" style="display: inline_block"
-     <br>
- 	<h2> Visite meu LinkedIn e me mande um email 📬 </h2>
-	<a href="https://www.linkedin.com/in/bruno-cotoski" target="_blank"><img  align="center" 		src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png"  height="40" width="40" target="_blank"></a>
-	<a href ="mailto:cottosky@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"  width="40"></a>
+<div align="center">
+    <h2> Visite meu LinkedIn e me mande um email 📬 </h2>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+        <a href="https://www.linkedin.com/in/bruno-cotoski" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" height="40" width="40">
+        </a>
+        <a href="mailto:cottosky@gmail.com" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40">
+        </a>
+    </div>
 </div>
 
 
