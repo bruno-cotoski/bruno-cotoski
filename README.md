@@ -2,8 +2,7 @@
 
 <div align="center">
 <h2> Olá, sou fascinado pelo universo da tecnologia! Aqui estão meus projetos autodidatas. 💾 </h2>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bruno-cotoski&show_icons=true&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cotoski&layout=compact&theme=dracula"/>
+
 
 
 
@@ -20,6 +19,8 @@
   <img align="center" alt="ícone HTML" height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
   <img align="center" alt="ícone HTML" height="50" width="50" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000">
   <img align="center" alt="ícone HTML" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/PICO-8_logo_with_shadow.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original">
+</div>
+
 
 </div>
 
@@ -37,3 +38,4 @@
   <div align="center">
   <a href="https://www.flaticon.com" title="Ícones">Icons created by Freepik - Flaticon</a>
  <div>
+
