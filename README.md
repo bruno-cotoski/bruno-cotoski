@@ -37,7 +37,6 @@
             <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40">
         </a>
     </div>
-</div>
 
 
 ##  
