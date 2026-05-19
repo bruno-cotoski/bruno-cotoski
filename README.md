@@ -1,10 +1,6 @@
-
-
 <div align="center">
    <h2> Olá, sou fascinado pelo universo da tecnologia! Aqui estão meus projetos. 💾 </h2>
 </div> 
-
-
 
 <div align="center" style="display: inline_block">
    <h2> Linguagens e Tecnologias de Desenvolvimento ⚗️ </h2>
