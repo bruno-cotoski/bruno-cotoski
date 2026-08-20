@@ -1,5 +1,9 @@
 <div align="center">
-   <h2> Olá, sou fascinado pelo universo da tecnologia! Aqui estão meus projetos. 💾 </h2>
+   <h2> Olá, sou Profissional certificado em Suporte de TI pelo Google e formado em Jogos Digitais. Integro conhecimentos
+técnicos em hardware, software e redes com experiência em atendimento ao cliente. Busco minha primeira
+oportunidade na TI para me desenvolver e aplicar raciocínio lógico e comunicação assertiva na resolução de
+problemas e no atendimento ao usuário. Aqui ficam meus projetos de estudo
+ 💾 </h2>
 </div> 
 
 <div align="center" style="display: inline_block">
