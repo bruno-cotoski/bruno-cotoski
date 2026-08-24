@@ -1,4 +1,4 @@
-## 🧙‍♂️ Sobre Mim
+##  👨‍🚀Sobre Mim
 
 * 🎓 Formado em **Jogos Digitais** (Uniamérica Descomplica).
 * 🏆 Certificado em **Google IT Support**.
