@@ -16,7 +16,7 @@
 
 ## 🗃️ Projetos de Estudo
 
-* 💾 **[Laboratório Active Directory](https://github.com/bruno-cotoski/lab/blob/main/Help-Desk/Laborat%C3%B3rio%20Active%20Directory.md)** - Documenta um ambiente de domínio fictício no Windows Server para simulações.
+* 💾 **[Laboratório Active Directory](https://github.com/bruno-cotoski/lab/blob/main/Help-Desk/Active-Directory.md)** - Documenta um ambiente de domínio fictício no Windows Server para simulações.
 
   
 
