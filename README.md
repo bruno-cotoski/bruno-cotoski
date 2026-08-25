@@ -18,7 +18,7 @@
 
 * 💾 **[Laboratório Active Directory](https://github.com/bruno-cotoski/lab/blob/main/Help-Desk/Active-Directory.md)** - Documenta um ambiente de domínio fictício no Windows Server para simulações
 
-* 💾 **[Game ALIENS: Void Survivor](https://github.com/bruno-cotoski/lab/blob/main/Help-Desk/Active-Directory.md)** - Documenta o desenvolvimento de um game protótipo no PICO-8 Fantasy Console
+* 💾 **[Game ALIENS: Void Survivor](https://github.com/bruno-cotoski/alquimia/blob/main/Games/aliens.md)** - Documenta o desenvolvimento de um game protótipo no PICO-8 Fantasy Console
 
   
 
