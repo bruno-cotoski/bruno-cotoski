@@ -20,7 +20,7 @@
 
 * 💾 **[Game ALIENS: Void Survivor](https://github.com/bruno-cotoski/alquimia/blob/main/Games/aliens.md)** - Documenta o desenvolvimento de um game protótipo no PICO-8 Fantasy Console
 
-* 💾 **[Laboratório Redes de Computadores](https://github.com/bruno-cotoski/alquimia/blob/main/Help-Desk/Redes-Computadores.md)** - Documenta o estudo de comandos essenciais de CLI no Windows CMD para diagnóstico e resolução de problemas de conectividade.
+* 💾 **[Laboratório Redes de Computadores](https://github.com/bruno-cotoski/alquimia/blob/main/Help-Desk/Redes-Computadores.md)** - Documenta o estudo prático de comandos CLI no Windows para suporte de redes.
 
   
 
